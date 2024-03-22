@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/sfHgahs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Upon login of the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments. All tickets assigned to the agent will be on this screen.
+Upon login to the agent portal, you should see tickets. If not, you may have to log back in as an admin and reset the agent's permissions and departments. All tickets assigned to the agent will be on this screen.
 </p>
 <br />
 
